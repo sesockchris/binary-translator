@@ -1,0 +1,15 @@
+C:\dev\BinaryTranslator\BinaryTranslator\bin\Debug\net6.0\BinaryTranslator.exe
+C:\dev\BinaryTranslator\BinaryTranslator\bin\Debug\net6.0\BinaryTranslator.deps.json
+C:\dev\BinaryTranslator\BinaryTranslator\bin\Debug\net6.0\BinaryTranslator.runtimeconfig.json
+C:\dev\BinaryTranslator\BinaryTranslator\bin\Debug\net6.0\BinaryTranslator.dll
+C:\dev\BinaryTranslator\BinaryTranslator\bin\Debug\net6.0\BinaryTranslator.pdb
+C:\dev\BinaryTranslator\BinaryTranslator\obj\Debug\net6.0\BinaryTranslator.csproj.AssemblyReference.cache
+C:\dev\BinaryTranslator\BinaryTranslator\obj\Debug\net6.0\BinaryTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\BinaryTranslator\BinaryTranslator\obj\Debug\net6.0\BinaryTranslator.AssemblyInfoInputs.cache
+C:\dev\BinaryTranslator\BinaryTranslator\obj\Debug\net6.0\BinaryTranslator.AssemblyInfo.cs
+C:\dev\BinaryTranslator\BinaryTranslator\obj\Debug\net6.0\BinaryTranslator.csproj.CoreCompileInputs.cache
+C:\dev\BinaryTranslator\BinaryTranslator\obj\Debug\net6.0\BinaryTranslator.dll
+C:\dev\BinaryTranslator\BinaryTranslator\obj\Debug\net6.0\refint\BinaryTranslator.dll
+C:\dev\BinaryTranslator\BinaryTranslator\obj\Debug\net6.0\BinaryTranslator.pdb
+C:\dev\BinaryTranslator\BinaryTranslator\obj\Debug\net6.0\BinaryTranslator.genruntimeconfig.cache
+C:\dev\BinaryTranslator\BinaryTranslator\obj\Debug\net6.0\ref\BinaryTranslator.dll
