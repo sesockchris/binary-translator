@@ -6,9 +6,9 @@ public class DataAccess
         File.Create(directory + "\\" + filename);
     }
 
-    public static async Task WriteSingleStringToText(string toWrite)
+    public static async Task WriteSingleStringToText(string toWrite, string path)
     {
-        await File.WriteAllTextAsync(@"C:\Users\sock\Desktop\Translated.txt", toWrite);
+        await File.WriteAllTextAsync(path, toWrite);
     }
 
     public static int LengthOfString(string str)
