@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l/kCjRo6tWJyWcU8WBxnKrEK3fKFcX1G8nKWKk7PXexSuBBVCYCep/WPsFiAo5hSbIEFZRJADjkbKFxWtgkP9g==",
+  "dgSpecHash": "1d/Mqbh/XE9NbZzIWjaox77sw2o8gZJthTdRwNf2jI2QWBu51mzWMb15dsv91HqnfMqmZ3ltmn9PRWnxSAuy6w==",
   "success": true,
-  "projectFilePath": "C:\\dev\\BinaryTranslator\\BinaryTranslator\\BinaryTranslator.csproj",
+  "projectFilePath": "C:\\dev\\binary-translator\\BinaryTranslator\\BinaryTranslator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
