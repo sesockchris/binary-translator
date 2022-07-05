@@ -46,7 +46,7 @@ public class Program
         return translated;
     }
 
-    //possible improvement in computational efficiency?
+    //possible improvement in efficiency?
     public static string TranslateCharacterToBinaryDict(string toTranslate)
     {
         //char[] toTranslateCharArray = toTranslate.ToCharArray();
@@ -65,13 +65,13 @@ public class Program
         return translation;
     }
 
-    public static string TranslateEnglishToBinary(string toTranslate)
-    {
-        string translation = "";
+    //public static string TranslateEnglishToBinary(string toTranslate)
+    //{
+    //    string translation = "";
 
-        for (int i = 0; i <= toTranslate.Length; i++)
-        {
+    //    for (int i = 0; i <= toTranslate.Length; i++)
+    //    {
 
-        }
-    }
+    //    }
+    //}
 }
